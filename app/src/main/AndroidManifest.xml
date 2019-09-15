@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.codex">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -18,16 +18,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".SignupActivity"
+        <activity
+            android:name=".SignupActivity"
             android:label="Sign-Up" />
-
-
-        <activity android:name=".ResetPasswordActivity"
+        <activity
+            android:name=".ResetPasswordActivity"
             android:label="Sign-Up" />
-
-        <activity android:name=".GST"
+        <activity
+            android:name=".GST"
             android:label="GST" />
+
+        <activity android:name=".BuyItems"
+            android:label="Buy Items" />
+
+        <activity android:name=".SellItems"
+            android:label="Sell Items" />
+
     </application>
 
 </manifest>

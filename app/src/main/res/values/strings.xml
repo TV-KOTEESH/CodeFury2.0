@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CodeX</string>
+    <string name="title_activity_buy_items_new">BuyItemsNew</string>
 </resources>
