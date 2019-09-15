@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950702489949",
+    "firebase_url": "https://codex-f8c2d.firebaseio.com",
+    "project_id": "codex-f8c2d",
+    "storage_bucket": "codex-f8c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950702489949:android:57fb9aa888f817ffdf68b4",
+        "android_client_info": {
+          "package_name": "com.example.codex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950702489949-q2aiq4jjqnagv4bbpd4qnipd9l96aqrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codex",
+            "certificate_hash": "683d2b74bb8160030ecb28b07af1643c35f4fbe9"
+          }
+        },
+        {
+          "client_id": "950702489949-mt895up1d8pbqrej6hb8ni0s3nbjgpms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnA9EGaI8OGY00AlHq7C61I43SFqjN4pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950702489949-mt895up1d8pbqrej6hb8ni0s3nbjgpms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
